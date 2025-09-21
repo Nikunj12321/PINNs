@@ -6,3 +6,6 @@ Burgers Equation/model_weights_old.pth
 Burgers Equation/model_weights.pth
 Burgers Equation/data/Flow.csv
 requirements.txt
+visualizationGradientTurbulent.png
+visualizationGradientTurbulent.png
+Burgers Equation/model_weights_10600-turbulentLaminar.pth
