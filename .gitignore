@@ -9,3 +9,4 @@ requirements.txt
 visualizationGradientTurbulent.png
 visualizationGradientTurbulent.png
 Burgers Equation/model_weights_10600-turbulentLaminar.pth
+Burgers Equation/model_weights_10600.pth
